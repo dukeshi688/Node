@@ -9,6 +9,9 @@
 暂无
 
 
-## 能力模型定义
+## 能力模型定义（理论）
 ### [基础能力模型](/docs/capabilityModel/basics.md)
-### [架构能力模型](https://www.baidu.com)
+### [架构能力模型](/docs/capabilityModel/framework.md)
+
+## 读书笔记
+......
